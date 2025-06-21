@@ -1,4 +1,7 @@
 {
 	"_base": "https://raw.githubusercontent.com/tiimupitt/strudel/main/",
-	"bassdrum": "samples/bass-drum/DECAP_kick_texture_knock_punch.wav"
+	"bassdrum": [
+		"samples/bassdrum/DECAP_kick_texture_knock_punch.wav",
+		"samples/bassdrum/EX_BR_Perc_Breath_Kick_Stomp.wav"
+	]
 }
